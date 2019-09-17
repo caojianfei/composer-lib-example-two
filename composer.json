@@ -1,0 +1,10 @@
+{
+    "name": "vagrant/composer-lib-example-two",
+    "authors": [
+        {
+            "name": "caojianfei",
+            "email": "jackcjf@163.com"
+        }
+    ],
+    "require": {}
+}
