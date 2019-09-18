@@ -6,5 +6,7 @@
             "email": "jackcjf@163.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/psr7": "1.2.*"
+    }
 }
